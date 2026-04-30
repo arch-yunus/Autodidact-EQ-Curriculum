@@ -1,88 +1,92 @@
-# 🧠 Autodidact EQ Curriculum (Otopratik Duygusal Zeka Müfredatı)
+# 🧠 Autodidact-EQ-Curriculum: Analitik Zihinler İçin Duygusal Zeka
 
-Bu repo, duygusal zekayı (EQ) teorik bir bilgi yığını olmaktan çıkarıp, bir mühendislik disiplini gibi sistemli bir şekilde geliştirmeyi hedefleyen açık kaynaklı bir müfredattır.
+> **"Kendini yönetemeyen, dünyayı yönetemez."** — *Autodidact'ın Savaş Alanı: Kendi Zihni.*
 
-## 🚀 Felsefe
-
-Müfredatımızın temel felsefesi 3 ana sütun üzerinde yükselir:
-
-1. **Teori Pratiğe Tabiidir:** Sadece psikoloji kitapları okumak EQ'nuzu artırmaz. Öğrenilen her teorik model, sahada (gerçek insan etkileşimlerinde) test edilmeli ve sonuçları analiz edilmelidir.
-2. **Geri Bildirim Döngüsü (Feedback Loop):** Sosyal başarısızlıklar, reddedilmeler veya öfke patlamaları birer yıkım değil; sistemin zayıf noktalarını gösteren "hata raporlarıdır (bug report)". Bu veriler, sistemi güncellemek için kullanılır.
-3. **Sürekli İyileştirme (CI/CD Mantığı):** EQ gelişimi bir varış noktası değil, ömür boyu süren bir yolculuktur. Sistem her gün yeni verilere maruz kalmalı ve kendini yeniden yapılandırmalıdır.
+Duygusal Zeka (EQ), doğuştan gelen mistik bir yetenek değil; sistematik olarak analiz edilebilen, ölçülebilen ve **sertifikalı bir mühendis titizliğiyle hacklenebilen** dinamik bir işletim sistemidir. Bu repo, analitik ve teknik zihinlerin (yazılımcılar, mühendisler, veri bilimciler) sosyal ve içsel süreçlerini optimize etmeleri için tasarlanmış açık kaynaklı bir "Master Plan"dır.
 
 ---
 
-## 🛠️ Ön Koşullar (Prerequisites)
+## 🚀 Neden Teknik Zihinler İçin EQ?
 
-Bu müfredata başlamadan önce aşağıdaki zihinsel kurulumların (mindset) tamamlanmış olması şarttır:
+Teknik mükemmeliyet (IQ/Hard Skills), bir kapıyı açmanızı sağlar; ancak o kapının arkasındaki karmaşık insan ağlarında hayatta kalmanızı ve yükselmenizi sağlayan şey EQ'dur.
 
-* **Radikal Şeffaflık:** Kendinize yalan söylemeyi bırakmalısınız. Hatalarınızı ve zayıf yönlerinizi objektif bir şekilde kabul etme cesareti.
-* **Ego İzolasyonu:** Öğrenme süreci boyunca egoyu bir kenara bırakıp, geri bildirimleri kişisel bir saldırı olarak değil, birer veri noktası olarak algılama yetisi.
-* **Sıfır Beklenti:** Diğer insanların değişmesini beklemeyi bırakıp, yalnızca kendi reaksiyonlarınızı ve sisteminizi optimize etmeye odaklanma.
+*   **Liderlik ROI'si:** En iyi kod yazan değil, en iyi insan sistemlerini (ekibi) yöneten "Senior" olur.
+*   **Kriz Yönetimi:** Beklenmedik bir sunucu çöküşünde veya başarısız bir demoda paniklemek yerine "Response Latency" kullanarak rasyonel kalmak.
+*   **İkna Kabiliyeti:** En mükemmel mimariyi bile paydaşlara kabul ettirmek için "Mimari Dinleme" ve "Empati" gerekir.
+
+---
+
+## 🧬 Bilimsel Temel: Amigdala vs. Prefrontal Korteks
+
+Bu müfredat, nörobilimsel bir gerçekliğe dayanır: **Amigdala Hijack (Amigdala Korsanlığı)**.
+
+Tehdit anında (bir eleştiri, bir hata) beyninizin ilkel kısmı olan amigdala kontrolü ele alır ve rasyonel düşünen prefrontal korteksi devre dışı bırakır. Bizim hedefimiz, bu "donanım seviyesindeki" reaksiyonu fark edip yazılımsal protokollerle (Modül 2) sistemi normale döndürmektir.
 
 ---
 
 ## 🗺️ Müfredat Yapısı (Syllabus)
 
-Eğitim programı, bireyin kendi iç dünyasından başlayarak adım adım dış dünyaya ve karmaşık sosyal sistemlere doğru genişleyen 4 ana modülden oluşmaktadır.
+Müfredat, içten dışa doğru genişleyen 4 katmanlı bir mimariye sahiptir.
 
-### Modül 1: Öz-Farkındalık Katmanı (Self-Awareness Layer)
-Kişinin kendi içsel işletim sistemini şeffaf bir şekilde okuyabilmesi, tüm EQ inşasının temelidir. Tanımlanamayan bir sorun, çözülemez.
+### 🛡️ Modül 1: Öz-Farkındalık Katmanı (Self-Awareness)
+Sistemi optimize etmek için önce onu gözlemlemeniz gerekir.
 
-* **[1.1 Duygu Granülerliği (Emotion Granularity)](./Module-1-Self-Awareness/1.1-Emotion-Granularity.md):** Kötü veya iyi hissetmenin ötesine geçerek duyguları yüksek çözünürlükte isimlendirme.
-* **[1.2 Tetikleyici Haritalamasması (Trigger Mapping)](./Module-1-Self-Awareness/1.2-Trigger-Mapping.md):** Sizi aniden öfkelendiren, korkutan veya savunmaya geçiren dış etkenlerin kök neden (root cause) analizi.
-* **[1.3 Durum Loglama (State Logging)](./Module-1-Self-Awareness/1.3-State-Logging.md):** İçsel durumların (internal states) dışarıdan bakan tarafsız bir gözlemci gibi kaydedilmesi.
+*   **[1.1 Duygu Granülerliği](./Module-1-Self-Awareness/1.1-Emotion-Granularity.md):** Duygusal veri setinizi genişletin. "Kötü" bir veri tipi değildir, "Yetersizlik hissiyle tetiklenmiş hayal kırıklığı" bir veridir.
+*   **[1.2 Tetikleyici Haritalaması](./Module-1-Self-Awareness/1.2-Trigger-Mapping.md):** Hangi "input"lar sisteminizde hata veriyor? (Örn: Yetkinliğinizin sorgulanması).
+*   **[1.3 Durum Loglama](./Module-1-Self-Awareness/1.3-State-Logging.md):** Günlük "Internal System Check" protokolü.
+*   **💡 Pro-Tip:** Kendinizi üçüncü bir şahıs gibi ("X şu an X hissediyor") isimlendirmek, duygusal yükü %30 azaltır.
 
-### Modül 2: Öz-Düzenleme Protokolleri (Self-Regulation Protocols)
-Fark edilen duyguyu yönetme, yıkıcı dürtüleri durdurma ve sistemi stabil tutma sanatıdır.
+### ⚙️ Modül 2: Öz-Düzenleme Protokolleri (Self-Regulation)
+Tetikleyicilere verilen otomatik reaksiyonları, bilinçli yanıtlarla değiştirmek.
 
-* **[2.1 Tepki Latansını Artırma (Response Latency)](./Module-2-Self-Regulation/2.1-Response-Latency.md):** Etki (uyarıcı) ile tepki (aksiyon) arasındaki süreyi uzatarak amigdala korsanlığını önleme.
-* **[2.2 Yüksek Stres Altında Regülasyon](./Module-2-Self-Regulation/2.2-High-Stress-Regulation.md):** Kriz, kaos ve çatışma anlarında bilişsel kapasiteyi devrede tutmak için sinir sistemi dengeleme pratikleri.
-* **[2.3 Bilişsel Yeniden Çerçeveleme (Cognitive Reframing)](./Module-2-Self-Regulation/2.3-Cognitive-Reframing.md):** Negatif durumları felaketleştirmeden, objektif gerçeklik zemininde çözülebilir mühendislik problemleri olarak yapılandırma.
+*   **[2.1 Tepki Latansını Artırma](./Module-2-Self-Regulation/2.1-Response-Latency.md):** Uyarıcı ile tepki arasına "3 saniye"lik bir boşluk (buffer) koyma sanatı.
+*   **[2.2 Yüksek Stres Altında Regülasyon](./Module-2-Self-Regulation/2.2-High-Stress-Regulation.md):** Amigdala korsanlığını fiziksel olarak (nefes/soğuk su) durdurma.
+*   **[2.3 Bilişsel Yeniden Çerçeveleme](./Module-2-Self-Regulation/2.3-Cognitive-Reframing.md):** Olayı "bir felaket" yerine "bir mühendislik problemi" olarak tekrar tanımlama.
+*   **⚠️ Anti-Pattern:** Duyguyu bastırmak düzenleme değildir. Duyguyu fark edip rasyonel bir aksiyona dönüştürmek düzenlemedir.
 
-### Modül 3: Bilişsel ve Duygusal Empati (Empathy & Data Parsing)
-Dış dünyadaki aktörlerin yaydığı karmaşık veri akışını doğru ve önyargısız işleme yetisidir.
+### 📡 Modül 3: Empati ve Veri İşleme (Empathy & Data Parsing)
+Diğer aktörlerin yaydığı karmaşık sinyalleri (alt metinleri) doğru okumak.
 
-* **[3.1 Mimari Dinleme (Architectural Listening)](./Module-3-Empathy-Data-Parsing/3.1-Architectural-Listening.md):** Karşınızdakini sadece sıranızı beklemek için değil; onun anlam dünyasını ve kullandığı mantığı kavramak için dinleme.
-* **[3.2 Mikro-İfadeler ve Alt Metin Analizi](./Module-3-Empathy-Data-Parsing/3.2-Micro-Expressions.md):** Söylenen kelimelerin ötesine geçerek beden dili, mikro-mimikler ve söylenemeyenler üzerinden veri toplama.
-* **[3.3 Çift Yönlü Perspektif (Perspective-Taking)](./Module-3-Empathy-Data-Parsing/3.3-Perspective-Taking.md):** Kendi doğrularınızdan vazgeçmeden, bir konuya tamamen karşı tarafın zihinsel modelinden bakabilme esnekliği.
+*   **[3.1 Mimari Dinleme](./Module-3-Empathy-Data-Parsing/3.1-Architectural-Listening.md):** Karşı tarafın "söylediğini" değil, "neden söylediğini" duyma yetisi.
+*   **[3.2 Mikro-İfadeler ve Alt Metin](./Module-3-Empathy-Data-Parsing/3.2-Micro-Expressions.md):** Kelimeler yalan söyler, mikro-mimikler (hor görme, korku) gerçeği fısıldar.
+*   **[3.3 Çift Yönlü Perspektif](./Module-3-Empathy-Data-Parsing/3.3-Perspective-Taking.md):** Başkasının zihinsel modeline (mental model) "login" olabilmek.
 
-### Modül 4: Sosyal Etkileşim Sistemleri (Social System Architecture)
-Kazanılan içsel gücü ve dışsal okuma yeteneğini, gerçek dünyada sürdürülebilir, sağlıklı ve verimli ilişkilere dönüştürme evresidir.
+### 🏰 Modül 4: Sosyal Etkileşim Sistemleri (Social Architecture)
+İçsel gücü, dış dünyada sürdürülebilir ve verimli ilişkilere dönüştürmek.
 
-* **[4.1 Çatışma Çözümü (Conflict Resolution)](./Module-4-Social-System-Architecture/4.1-Conflict-Resolution.md):** Tartışmaları ego savaşlarından çıkarıp, ortak bir düşmana (probleme) karşı yürütülen bir beyin fırtınasına dönüştürme.
-* **[4.2 Güvenlik Duvarı Mimarisi (Boundary Setting)](./Module-4-Social-System-Architecture/4.2-Boundary-Setting.md):** Nezaketi ve profesyonelliği kaybetmeden net bir "Hayır" diyebilme; toksik kişi ve durumlara karşı kişisel sınırlar çizme.
-* **[4.3 Yapıcı Geri Bildirim Döngüsü](./Module-4-Social-System-Architecture/4.3-Constructive-Feedback.md):** İnsanları savunmaya geçirmeden sistemlerini iyileştirecek eleştiriler sunabilme ve dışarıdan gelen eleştirileri filtreleyebilme.
+*   **[4.1 Çatışma Çözümü](./Module-4-Social-System-Architecture/4.1-Conflict-Resolution.md):** DEAR MAN protokolü ile rasyonel müzakere.
+*   **[4.2 Güvenlik Duvarı Mimarisi](./Module-4-Social-System-Architecture/4.2-Boundary-Setting.md):** Profesyonel "Hayır" diyebilme ve kişisel sınırların kodlanması.
+*   **[4.3 Yapıcı Geri Bildirim](./Module-4-Social-System-Architecture/4.3-Constructive-Feedback.md):** SBI (Situation-Behavior-Impact) modeli ile geri bildirim döngüsü.
 
 ---
 
-## 📈 Başarı Metrikleri (KPIs)
+## 📊 Başarı Metrikleri (KPIs)
 
-Gelişiminizi ölçebilmeniz için sistemin önceki ve sonraki versiyonlarını kıyaslayan gösterge tablosu:
-
-| Durum | Düşük EQ Tepkisi (Eski Sürüm) | Yüksek EQ Tepkisi (Güncel Sürüm) |
+| Metrik | Başlangıç (V1.0) | Hedef (V2.0+) |
 | :--- | :--- | :--- |
-| **Eleştiri Almak** | Savunmaya geçmek, karşı saldırmak veya küsmek. | "Bu eleştirideki haklılık payı nedir?" diyerek veriyi analiz etmek. |
-| **Hata Yapmak** | Suçu başkasına/şartlara atmak veya kendini kırbaçlamak. | Hatanın kök nedenini bulup sistemi güncellemek. |
-| **Fikir Ayrılığı** | Kendi fikrini bağırarak veya zorla kabul ettirmeye çalışmak. | Karşı tarafın neden o fikri savunduğunu merak edip sorular sormak. |
-| **Stresli Anlar** | Paniklemek, dürtüsel kararlar almak. | Duraksamak, nefesi düzenlemek ve büyük resmi görmek. |
+| **Geri Bildirim** | Defansif, kişisel saldırı olarak algılama. | Veri analizi, "Sistemi nasıl iyileştirir?" sorgusu. |
+| **Çatışma** | Kazan-Kaybet (Ego savaşı). | Kazan-Kazan veya Problem Çözme ortaklığı. |
+| **Zor Durumlar** | Panik, dürtüsel kararlar, "Fight/Flight". | Duraksama, nefes regülasyonu, stratejik yanıt. |
+| **Dinleme** | Cevap vermek için bekleme. | Anlam dünyasını çözmek için analiz etme. |
 
 ---
 
-## 📖 Reponun Kullanım Kılavuzu
+## 🛠️ Kullanım Kılavuzu (Manual)
 
-1. **Sıralı İlerleme:** Modülleri atlamayın. Öz-farkındalık (Modül 1) altyapısı kurulmadan atılan Sosyal Etkileşim (Modül 4) adımları manipülasyona dönüşür ve çöker.
-2. **Commit ve Push:** Her gün sonu, o günkü duygusal reaksiyonlarınızı kendi kişisel not defterinize (veya fork'ladığınız repo'nuza) kaydedin. Nerede iyiydiniz, nerede patladınız?
-3. **Sahada Test:** Burada okuduğunuz her bir prensibi ertesi gün işte, okulda veya ailenizle olan bir konuşmada bilinçli olarak uygulayın.
+1.  **Sıralı İlerleme (Strict Mode):** Modül 1'i (Farkındalık) tamamlamadan Modül 4'e (Etkileşim) geçmeyin. Altyapı olmadan üst yapı çöker.
+2.  **Daily Stand-ups:** Her akşam `Logbook` şablonlarını kullanarak günün duygusal "commit"lerini atın.
+3.  **Sahada Test:** Her hafta en az bir yeni protokolü (Örn: 2.1 Latans) bilinçli olarak bir toplantıda veya sohbette test edin.
 
 ---
 
-## 🤝 Katkı Sağlama (Contributing Guidelines)
+## 🤝 Katkı Sağlama (Contributing)
 
-Bu müfredat tek bir yazarın değil, kolektif bir zekanın ürünü olmayı hedefler. EQ gelişimi konusunda işe yaradığını sahada test edip kanıtladığınız bir makale, bir nefes tekniği, psikolojik bir model veya kitap önerisi varsa:
+Bu müfredat kolektif bir zekanın ürünüdür. Eğer EQ gelişiminde işe yarayan bir "hack", teknik veya referansınız varsa:
+1. Fork'layın.
+2. İlgili modüle ekleme yapın.
+3. PR (Pull Request) gönderin.
 
-1. Bu repoyu fork'layın.
-2. Yeni pratikleri ilgili modülün altına ekleyin.
-3. Açıklayıcı bir metinle **Pull Request (PR)** gönderin.
+**Bilgiyi sistemleştirin, zihninizi optimize edin.**
 
-Bilgiyi sistemleştirin ve demokratikleştirin. İyi güncellemeler.
+---
+*© 2026 Autodidact EQ Guild. Açık Kaynaklı Duygusal Gelişim.*
